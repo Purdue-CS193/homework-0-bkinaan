@@ -1,3 +1,9 @@
+# Brandon Kinaan's First CS193 Homework
+
+- I'm happy that there are no midterms/exams in this class
+- I'm happy that I don't have to buy a textbook for this class
+- I am grateful that I got such awesome instructors for CS193! :)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
